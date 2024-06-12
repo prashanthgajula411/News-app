@@ -1,0 +1,21 @@
+.list-con{
+    height:350px;
+    width:400px;
+    list-style-type:none;
+}
+
+
+.img{
+    height:200px;
+    width:300px;
+}
+h1{
+font-family: "Roboto";
+font-size:13px;
+font-weight:bold;
+}
+p{
+    font-family:"Roboto";
+    font-size:12px;
+
+}
